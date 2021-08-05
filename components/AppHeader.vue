@@ -1,7 +1,7 @@
 <template>
     <div>
         <header class="header">
-            <h1>Dad Jokes</h1>
+            <nuxt-link to="/">Dad Jokes</nuxt-link>
             <ul>
                 <nuxt-link to="/">Home</nuxt-link>
                 <nuxt-link to="/jokes">Jokes</nuxt-link>
